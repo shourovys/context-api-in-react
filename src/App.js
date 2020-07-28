@@ -11,7 +11,7 @@ function App() {
       <FriendContextProvider>
         <Header></Header>
         <Friend></Friend>
-        {/* <ShowFriend></ShowFriend> */}
+        <ShowFriend></ShowFriend>
       </FriendContextProvider>
     </div>
   );
